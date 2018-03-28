@@ -8,7 +8,7 @@ package storesale;
 
 /**
  *
- * @author User
+ * @author malud0519
  */
 public class superStore extends javax.swing.JFrame {
 
